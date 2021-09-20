@@ -60,6 +60,9 @@ img:hover {
     font-weight: 600; 
     margin-bottom: 1em;
 }
+.logo{
+    padding: 5px;
+}
 
 @media only screen and (max-width: 800px) and (min-width: 400px) {
 
@@ -69,6 +72,7 @@ img:hover {
     }
     .logo{
         font-size: 1.8em;
+        padding: 5px;
     }
 
     .links{
@@ -129,6 +133,9 @@ img:hover {
         margin: 0.5em;
         font-size: 2em;
     }
+    .logo{
+        padding: 5px;
+    }
 
     
 }
@@ -138,6 +145,7 @@ img:hover {
 
     .logo{
         font-size: 1.5em;
+        padding: 5px;
     }
     body{
         background-image: linear-gradient(to right,darkblue, lightblue);
